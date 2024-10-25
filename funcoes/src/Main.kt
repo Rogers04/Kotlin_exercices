@@ -60,7 +60,8 @@ fun main(){
     println("\"$palavra2\" é palíndromo? ${palavra2.isPalindrome()}") // true
     println("\"$palavra3\" é palíndromo? ${palavra3.isPalindrome()}") // false
 }
-?
+*/
+//-------------------------------------------------------Exercicio 05---------------------------------------------------------------//
 
 fun main (){
 
@@ -74,4 +75,4 @@ fun fibonacci (n: Int): Int{
         else -> fibonacci(n - 1) + fibonacci(n - 2)
     }
 }
-*/
+
